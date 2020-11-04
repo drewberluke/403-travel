@@ -1,0 +1,12 @@
+{
+    "python.pythonPath": "/Users/Sangyoon/opt/anaconda3/envs/MyDjangoEnv/bin/python",
+    "emmet.includeLanguages": {"django-html": "html"},
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+        "pylint_django"
+    ],
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": false,
+    "editor.formatOnSave": false,
+}
